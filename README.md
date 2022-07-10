@@ -23,3 +23,7 @@ npx react-native run-android
 npx react-native run-ios
 ```
 
+<p align="center">
+  <img src="https://github.com/karenyov/rncrud/blob/main/app.gif" width="350">
+</p>
+
